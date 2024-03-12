@@ -45,7 +45,7 @@ data class Team(
     <string name="dog_description_8">Sunbathing</string>
     <string name="dog_description_9">Sleeping in dangerous places</string>
     <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
+    <string name="team_2_ground">Anfield</string>
     <string name="team_1_ground">Emirates Stadium</string>
     <string name="team_1_ground">Emirates Stadium</string>
     <string name="team_1_ground">Emirates Stadium</string>
