@@ -1,17 +1,9 @@
-data class Dog(
-    @DrawableRes val imageResourceId: Int,
-    @StringRes val name: Int,
-    val age: Int,
-    @StringRes val hobbies: Int
-)
-
 data class Team(
   @DrawableRes val imageResourceId: Int,
   @StringRes val name: Int,
-    @StringRes val nickName: Int,
-    val since: Int,
-    @StringRes val ground: Int
-  
+  @StringRes val nickName: Int,
+  val since: Int,
+  @StringRes val ground: Int 
   )
 
 <resources>
@@ -46,15 +38,15 @@ data class Team(
     <string name="team_9_ground">Molineux Stadium</string>
     <string name="team_10_ground">St James' Park</string>
     <string name="team_11_ground">Stamford Bridge</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
-    <string name="team_1_ground">Emirates Stadium</string>
+    <string name="team_12_ground">Craven Cottage</string>
+    <string name="team_13_ground">Dean Court</string>
+    <string name="team_14_ground">Selhurst Park</string>
+    <string name="team_15_ground">Brentford Community Stadium</string>
+    <string name="team_16_ground">Goodison Park</string>
+    <string name="team_17_ground">City Ground</string>
+    <string name="team_18_ground">Kenilworth Road</string>
+    <string name="team_19_ground">Turf Moor</string>
+    <string name="team_20_ground">Bramall Lane</string>
     <string name="team_1_nickname">The Gunners</string>
     <string name="team_1_nickname">The Gunners</string>
     <string name="team_1_nickname">The Gunners</string>
