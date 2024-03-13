@@ -67,7 +67,7 @@ data class Team(
     <string name="team_1_nickname">The Gunners</string>
     <string name="team_1_nickname">The Gunners</string>
     <string name="team_1_nickname">The Gunners</string>
-    <string name="about">About:</string>
-    <string name="years_old">%d years old</string>
-    <string name="expand_button_content_description">See more or less information about a dog.</string>
+    <string name="since">Since:</string>
+    <string name="also_known_as">Also Known As:</string>
+    <string name="expand_button_content_description">See more or less information about a team.</string>
 </resources>
