@@ -48,10 +48,10 @@ data class Team(
     <string name="team_19_ground">Turf Moor</string>
     <string name="team_20_ground">Bramall Lane</string>
     <string name="team_1_nickname">The Gunners</string>
-    <string name="team_1_nickname">The Gunners</string>
-    <string name="team_1_nickname">The Gunners</string>
-    <string name="team_1_nickname">The Gunners</string>
-    <string name="team_1_nickname">The Gunners</string>
+    <string name="team_2_nickname">The Reds</string>
+    <string name="team_3_nickname">The Citizens</string>
+    <string name="team_4_nickname">The Villans</string>
+    <string name="team_5_nickname">Spurs</string>
     <string name="team_1_nickname">The Gunners</string>
     <string name="team_1_nickname">The Gunners</string>
     <string name="team_1_nickname">The Gunners</string>
