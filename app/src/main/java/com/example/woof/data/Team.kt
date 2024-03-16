@@ -69,5 +69,6 @@ data class Team(
     <string name="team_20_nickname">The Blades</string>
     <string name="since">Since:</string>
     <string name="also_known_as">Also Known As:</string>
+    <string name="stadium">Stadium: </string>
     <string name="expand_button_content_description">See more or less information about a team.</string>
 </resources>
