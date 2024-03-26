@@ -39,7 +39,18 @@ data class Movie(
    <string name="movie_11">GoodFellas</string>
    <string name="movie_11_dir">Martin Scorsese</string>
    <string name="movie_11_description">The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.</string>
-  
+   <string name="movie_12">Back to the Future</string>
+   <string name="movie_12_dir">Robert Zemeckis</string>
+   <string name="movie_12_description">Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.</string>
+   <string name="movie_13">Gladiator</string>
+   <string name="movie_13_dir"Ridley Scott</string>
+   <string name="movie_13_description">A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.</string>
+  <string name="movie_14">The Usual Suspects</string>
+   <string name="movie_14_dir">Bryan Singer</string>
+   <string name="movie_14_description">The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.</string>
+  <string name="movie_15">Alien</string>
+   <string name="movie_15_dir">Ridley Scott</string>
+   <string name="movie_15_description">The crew of a commercial spacecraft encounters a deadly lifeform after investigating a mysterious transmission of unknown origin.</string>
   
   
    <string name="movie_2"></string>
