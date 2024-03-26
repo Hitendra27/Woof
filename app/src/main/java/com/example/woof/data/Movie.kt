@@ -27,9 +27,19 @@ data class Movie(
   <string name="movie_7">The Dark Knight</string>
    <string name="movie_7_dir">Christopher Nolan</string>
    <string name="movie_7_description">When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.</string>
-  <string name="movie_8"></string>
-   <string name="movie_8_dir"></string>
-   <string name="movie_8_description"></string>
+  <string name="movie_8">Fight Club</string>
+   <string name="movie_8_dir">David Fincher</string>
+   <string name="movie_8_description">An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.</string>
+  <string name="movie_9">Inception</string>
+   <string name="movie_9_dir">Christopher Nolan</string>
+   <string name="movie_9_description">A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster</string>
+   <string name="movie_10">Star Wars: Episode V - The Empire Strikes Back</string>
+   <string name="movie_10_dir">Irvin Kershner</string>
+   <string name="movie_10_description">After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.</string>
+   <string name="movie_11">GoodFellas</string>
+   <string name="movie_11_dir">Martin Scorsese</string>
+   <string name="movie_11_description">The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.</string>
+  
   
   
    <string name="movie_2"></string>
