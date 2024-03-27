@@ -51,9 +51,30 @@ data class Movie(
   <string name="movie_15">Alien</string>
    <string name="movie_15_dir">Ridley Scott</string>
    <string name="movie_15_description">The crew of a commercial spacecraft encounters a deadly lifeform after investigating a mysterious transmission of unknown origin.</string>
-  
+  <string name="movie_16">Memento</string>
+   <string name="movie_16_dir">Christopher Nolan</string>
+   <string name="movie_16_description">A man with short-term memory loss attempts to track down his wife's murderer.</string>
+    <string name="movie_17">Raiders of the Lost Ark</string>
+   <string name="movie_17_dir">Steven Spielberg</string>
+   <string name="movie_17_description">In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.</string>
+   <string name="movie_18">The Shining</string>
+   <string name="movie_18_dir">Stanley Kubrick</string>
+   <string name="movie_18_description">A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.</string>
+   <string name="movie_19">Inglourious Basterds</string>
+   <string name="movie_19_dir">Quentin Tarantino</string>
+   <string name="movie_19_description">In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.</string>
+  <string name="movie_20">Oldboy</string>
+   <string name="movie_20_dir">Park Chan-wook</string>
+   <string name="movie_20_description">After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days</string>
+ <string name="movie_21">Oppenheimer</string>
+   <string name="movie_21_dir">Christopher Nolan</string>
+   <string name="movie_21_description">The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.</string>
+
   
    <string name="movie_2"></string>
    <string name="movie_2_dir"></string>
    <string name="movie_1"></string>
+  
+
+    <string name="movie_plot">Plot: </string>
 </resources>
