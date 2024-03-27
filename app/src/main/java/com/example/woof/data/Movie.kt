@@ -90,15 +90,14 @@ data class Movie(
 <string name="movie_28">Gone Girl</string>
    <string name="movie_28_dir">David Fincher</string>
    <string name="movie_28_plot>With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.</string>
-<string name="movie_29"></string>
-   <string name="movie_29_dir"></string>
-   <string name="movie_29_plot"></string>
-<string name="movie_30"></string>
-   <string name="movie_30_dir"></string>
-   <string name="movie_30_plot"></string>
-   <string name="movie_31"></string>
-   <string name="movie_31_dir"></string>
-   <string name="movie_31"></string>
-  
+<string name="movie_29">Catch Me If You Can</string>
+   <string name="movie_29_dir">Steven Spielberg</string>
+   <string name="movie_29_plot">Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.</string>
+<string name="movie_30">Kill Bill: Vol. 1</string>
+   <string name="movie_30_dir">Quentin Tarantino</string>
+   <string name="movie_30_plot">After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.</string>
+   <string name="movie_31">The Thing</string>
+   <string name="movie_31_dir">John Carpenter</string>
+   <string name="movie_31">A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.</string>
     <string name="movie_plot">Plot: </string>
 </resources>
