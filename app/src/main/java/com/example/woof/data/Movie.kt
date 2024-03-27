@@ -81,11 +81,24 @@ data class Movie(
  <string name="movie_25">The Truman Show</string>
    <string name="movie_25_dir">Peter Weir</string>
    <string name="movie_25_plot">An insurance salesman discovers his whole life is actually a reality TV show.</string>
+ <string name="movie_26">Groundhog Day</string>
+   <string name="movie_26_dir">Harold Ramis</string>
+   <string name="movie_26_plot">A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.</string>
+<string name="movie_27">Pirates of the Caribbean: The Curse of the Black Pearl</string>
+   <string name="movie_27_dir">Gore Verbinski</string>
+   <string name="movie_27_plot">Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.</string>
+<string name="movie_28">Gone Girl</string>
+   <string name="movie_28_dir">David Fincher</string>
+   <string name="movie_28_plot>With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.</string>
+<string name="movie_29"></string>
+   <string name="movie_29_dir"></string>
+   <string name="movie_29_plot"></string>
+<string name="movie_30"></string>
+   <string name="movie_30_dir"></string>
+   <string name="movie_30_plot"></string>
+   <string name="movie_31"></string>
+   <string name="movie_31_dir"></string>
+   <string name="movie_31"></string>
   
-   <string name="movie_2"></string>
-   <string name="movie_2_dir"></string>
-   <string name="movie_1"></string>
-  
-
     <string name="movie_plot">Plot: </string>
 </resources>
