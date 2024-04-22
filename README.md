@@ -10,8 +10,8 @@ This is the starter code for the Woof app project. This project is an opportunit
 
 Screenshots of the Woof App
 --------------
-<img width="400" height="700" alt="Screenshot 2024-03-27 at 12 22 02" src="https://github.com/Hitendra27/Woof/assets/73651340/463b67f8-d688-44e0-b5f8-a183a9aa82ac">
-<img width="400" height="700" alt="Screenshot 2024-03-27 at 12 22 44" src="https://github.com/Hitendra27/Woof/assets/73651340/0a86cb9f-d8be-4602-b8d6-e3681979464e">
+<img width="400" height="900" alt="Screenshot 2024-03-27 at 12 22 02" src="https://github.com/Hitendra27/Woof/assets/73651340/463b67f8-d688-44e0-b5f8-a183a9aa82ac">
+<img width="400" height="900" alt="Screenshot 2024-03-27 at 12 22 44" src="https://github.com/Hitendra27/Woof/assets/73651340/0a86cb9f-d8be-4602-b8d6-e3681979464e">
 
 
 Pre-requisites
